@@ -1,4 +1,4 @@
-### 👋 Oi! Meu nome é Thalisson Vieira
+### 👋 Oi! Eu sou o Thalisson Vieira
 
 Meus contatos ⤵
 <div> 
