@@ -1,11 +1,28 @@
-- 👋 Oi! Meu nome é Thalisson Vieira
-- 👀 Tenho interesse em desenvolvimento web e mobile
-- 🌱 Atualmente estou aprendendo JavaScript e Python
-- 📫 Onde me encontrar?
--> @tdevieira (Instagram)
--> www.linkedin/in/thalissonvieira
+### 👋 Oi! Meu nome é Thalisson Vieira
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsvieira&hide=issues,prs,contribs&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ ##
+ 
+➡ Tenho interesse em desenvolvimento Web e Mobile! 
+
+➡ Atualmente estou aprendendo JavaScript e Python
+
+ ##
+ 
+<div> 
+
+  <a href="https://www.instagram.com/tdevieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thalissonvieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+[![Thalisson GitHub stats](https://github-readme-stats.vercel.app/api?username=thsvieira&hide=issues,prs,contribs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+
 
 <!---
 thsvieira/thsvieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
