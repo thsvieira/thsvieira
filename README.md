@@ -12,7 +12,7 @@ Meus contatos ⤵
  
 ➡ Tenho interesse em desenvolvimento Web e Mobile! 
 
-➡ Atualmente estou aprendendo JavaScript e Python
+➡ Atualmente estou aprendendo Java e React
 
  ##
  
